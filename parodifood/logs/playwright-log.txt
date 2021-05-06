@@ -1,36 +1,36 @@
-{"level":30,"time":"2021-05-06T18:08:28.854Z","pid":12096,"hostname":"DESKTOP-6K7H2S9","msg":"Listening on 50570"}
-{"level":30,"time":"2021-05-06T18:08:29.852Z","pid":12096,"hostname":"DESKTOP-6K7H2S9","msg":"Changed active context"}
-{"level":30,"time":"2021-05-06T18:08:30.217Z","pid":12096,"hostname":"DESKTOP-6K7H2S9","msg":"Video path: undefined"}
-{"level":30,"time":"2021-05-06T18:08:30.217Z","pid":12096,"hostname":"DESKTOP-6K7H2S9","msg":"Changed active page"}
-{"level":30,"time":"2021-05-06T18:08:32.975Z","pid":12096,"hostname":"DESKTOP-6K7H2S9","msg":"Retrieved text for element css=span containing Nunca foi tão engraçado pedir comida"}
-{"level":30,"time":"2021-05-06T18:08:33.217Z","pid":12096,"hostname":"DESKTOP-6K7H2S9","msg":"Retrieved text for element css=h1 strong containing Ta na hora de matar a fome!"}
-{"level":30,"time":"2021-05-06T18:08:34.317Z","pid":12096,"hostname":"DESKTOP-6K7H2S9","msg":"Retrieved text for element css=.place-info-box containing DEBUGER KING\n 3.5\nHamburgers\n100m"}
-{"level":30,"time":"2021-05-06T18:08:34.515Z","pid":12096,"hostname":"DESKTOP-6K7H2S9","msg":"Changed active context"}
-{"level":30,"time":"2021-05-06T18:08:34.515Z","pid":12096,"hostname":"DESKTOP-6K7H2S9","msg":"Changing current active page"}
-{"level":30,"time":"2021-05-06T18:08:34.516Z","pid":12096,"hostname":"DESKTOP-6K7H2S9","msg":"Changed active page"}
-{"level":30,"time":"2021-05-06T18:08:34.538Z","pid":12096,"hostname":"DESKTOP-6K7H2S9","msg":"Changed active context"}
-{"level":30,"time":"2021-05-06T18:08:34.539Z","pid":12096,"hostname":"DESKTOP-6K7H2S9","msg":"Changing current active page"}
-{"level":30,"time":"2021-05-06T18:08:34.539Z","pid":12096,"hostname":"DESKTOP-6K7H2S9","msg":"Changed active page"}
-{"level":30,"time":"2021-05-06T18:08:35.225Z","pid":12096,"hostname":"DESKTOP-6K7H2S9","msg":"Changed active context"}
-{"level":30,"time":"2021-05-06T18:08:35.555Z","pid":12096,"hostname":"DESKTOP-6K7H2S9","msg":"Video path: undefined"}
-{"level":30,"time":"2021-05-06T18:08:35.555Z","pid":12096,"hostname":"DESKTOP-6K7H2S9","msg":"Changed active page"}
-{"level":30,"time":"2021-05-06T18:08:38.678Z","pid":12096,"hostname":"DESKTOP-6K7H2S9","msg":"Retrieved text for element css=span containing Nunca foi tão engraçado pedir comida"}
-{"level":30,"time":"2021-05-06T18:08:38.957Z","pid":12096,"hostname":"DESKTOP-6K7H2S9","msg":"Retrieved text for element css=h1 strong containing Ta na hora de matar a fome!"}
-{"level":30,"time":"2021-05-06T18:08:40.202Z","pid":12096,"hostname":"DESKTOP-6K7H2S9","msg":"Retrieved text for element css=.place-info-box containing STARBUGS COFFEE\n 4.8\nCafeteria\n30-40m"}
-{"level":30,"time":"2021-05-06T18:08:40.392Z","pid":12096,"hostname":"DESKTOP-6K7H2S9","msg":"Changed active context"}
-{"level":30,"time":"2021-05-06T18:08:40.392Z","pid":12096,"hostname":"DESKTOP-6K7H2S9","msg":"Changing current active page"}
-{"level":30,"time":"2021-05-06T18:08:40.392Z","pid":12096,"hostname":"DESKTOP-6K7H2S9","msg":"Changed active page"}
-{"level":30,"time":"2021-05-06T18:08:40.411Z","pid":12096,"hostname":"DESKTOP-6K7H2S9","msg":"Changed active context"}
-{"level":30,"time":"2021-05-06T18:08:40.411Z","pid":12096,"hostname":"DESKTOP-6K7H2S9","msg":"Changing current active page"}
-{"level":30,"time":"2021-05-06T18:08:40.411Z","pid":12096,"hostname":"DESKTOP-6K7H2S9","msg":"Changed active page"}
-{"level":30,"time":"2021-05-06T18:08:41.107Z","pid":12096,"hostname":"DESKTOP-6K7H2S9","msg":"Changed active context"}
-{"level":30,"time":"2021-05-06T18:08:41.480Z","pid":12096,"hostname":"DESKTOP-6K7H2S9","msg":"Video path: undefined"}
-{"level":30,"time":"2021-05-06T18:08:41.480Z","pid":12096,"hostname":"DESKTOP-6K7H2S9","msg":"Changed active page"}
-{"level":30,"time":"2021-05-06T18:08:44.375Z","pid":12096,"hostname":"DESKTOP-6K7H2S9","msg":"Retrieved text for element css=span containing Nunca foi tão engraçado pedir comida"}
-{"level":30,"time":"2021-05-06T18:08:44.652Z","pid":12096,"hostname":"DESKTOP-6K7H2S9","msg":"Retrieved text for element css=h1 strong containing Ta na hora de matar a fome!"}
-{"level":30,"time":"2021-05-06T18:08:46.238Z","pid":12096,"hostname":"DESKTOP-6K7H2S9","msg":"Changed active context"}
-{"level":30,"time":"2021-05-06T18:08:46.238Z","pid":12096,"hostname":"DESKTOP-6K7H2S9","msg":"Changing current active page"}
-{"level":30,"time":"2021-05-06T18:08:46.238Z","pid":12096,"hostname":"DESKTOP-6K7H2S9","msg":"Changed active page"}
-{"level":30,"time":"2021-05-06T18:08:46.262Z","pid":12096,"hostname":"DESKTOP-6K7H2S9","msg":"Changed active context"}
-{"level":30,"time":"2021-05-06T18:08:46.262Z","pid":12096,"hostname":"DESKTOP-6K7H2S9","msg":"Changing current active page"}
-{"level":30,"time":"2021-05-06T18:08:46.262Z","pid":12096,"hostname":"DESKTOP-6K7H2S9","msg":"Changed active page"}
+{"level":30,"time":"2021-05-06T18:23:50.621Z","pid":6112,"hostname":"DESKTOP-6K7H2S9","msg":"Listening on 63244"}
+{"level":30,"time":"2021-05-06T18:23:51.708Z","pid":6112,"hostname":"DESKTOP-6K7H2S9","msg":"Changed active context"}
+{"level":30,"time":"2021-05-06T18:23:52.080Z","pid":6112,"hostname":"DESKTOP-6K7H2S9","msg":"Video path: undefined"}
+{"level":30,"time":"2021-05-06T18:23:52.080Z","pid":6112,"hostname":"DESKTOP-6K7H2S9","msg":"Changed active page"}
+{"level":30,"time":"2021-05-06T18:23:54.975Z","pid":6112,"hostname":"DESKTOP-6K7H2S9","msg":"Retrieved text for element css=span containing Nunca foi tão engraçado pedir comida"}
+{"level":30,"time":"2021-05-06T18:23:55.312Z","pid":6112,"hostname":"DESKTOP-6K7H2S9","msg":"Retrieved text for element css=h1 strong containing Ta na hora de matar a fome!"}
+{"level":30,"time":"2021-05-06T18:23:56.503Z","pid":6112,"hostname":"DESKTOP-6K7H2S9","msg":"Retrieved text for element css=.place-info-box containing DEBUGER KING\n 3.5\nHamburgers\n100m"}
+{"level":30,"time":"2021-05-06T18:23:56.724Z","pid":6112,"hostname":"DESKTOP-6K7H2S9","msg":"Changed active context"}
+{"level":30,"time":"2021-05-06T18:23:56.724Z","pid":6112,"hostname":"DESKTOP-6K7H2S9","msg":"Changing current active page"}
+{"level":30,"time":"2021-05-06T18:23:56.724Z","pid":6112,"hostname":"DESKTOP-6K7H2S9","msg":"Changed active page"}
+{"level":30,"time":"2021-05-06T18:23:56.745Z","pid":6112,"hostname":"DESKTOP-6K7H2S9","msg":"Changed active context"}
+{"level":30,"time":"2021-05-06T18:23:56.745Z","pid":6112,"hostname":"DESKTOP-6K7H2S9","msg":"Changing current active page"}
+{"level":30,"time":"2021-05-06T18:23:56.745Z","pid":6112,"hostname":"DESKTOP-6K7H2S9","msg":"Changed active page"}
+{"level":30,"time":"2021-05-06T18:23:57.290Z","pid":6112,"hostname":"DESKTOP-6K7H2S9","msg":"Changed active context"}
+{"level":30,"time":"2021-05-06T18:23:57.616Z","pid":6112,"hostname":"DESKTOP-6K7H2S9","msg":"Video path: undefined"}
+{"level":30,"time":"2021-05-06T18:23:57.616Z","pid":6112,"hostname":"DESKTOP-6K7H2S9","msg":"Changed active page"}
+{"level":30,"time":"2021-05-06T18:24:00.391Z","pid":6112,"hostname":"DESKTOP-6K7H2S9","msg":"Retrieved text for element css=span containing Nunca foi tão engraçado pedir comida"}
+{"level":30,"time":"2021-05-06T18:24:00.718Z","pid":6112,"hostname":"DESKTOP-6K7H2S9","msg":"Retrieved text for element css=h1 strong containing Ta na hora de matar a fome!"}
+{"level":30,"time":"2021-05-06T18:24:01.801Z","pid":6112,"hostname":"DESKTOP-6K7H2S9","msg":"Retrieved text for element css=.place-info-box containing STARBUGS COFFEE\n 4.8\nCafeteria\n30-40m"}
+{"level":30,"time":"2021-05-06T18:24:02.065Z","pid":6112,"hostname":"DESKTOP-6K7H2S9","msg":"Changed active context"}
+{"level":30,"time":"2021-05-06T18:24:02.065Z","pid":6112,"hostname":"DESKTOP-6K7H2S9","msg":"Changing current active page"}
+{"level":30,"time":"2021-05-06T18:24:02.065Z","pid":6112,"hostname":"DESKTOP-6K7H2S9","msg":"Changed active page"}
+{"level":30,"time":"2021-05-06T18:24:02.083Z","pid":6112,"hostname":"DESKTOP-6K7H2S9","msg":"Changed active context"}
+{"level":30,"time":"2021-05-06T18:24:02.084Z","pid":6112,"hostname":"DESKTOP-6K7H2S9","msg":"Changing current active page"}
+{"level":30,"time":"2021-05-06T18:24:02.084Z","pid":6112,"hostname":"DESKTOP-6K7H2S9","msg":"Changed active page"}
+{"level":30,"time":"2021-05-06T18:24:02.713Z","pid":6112,"hostname":"DESKTOP-6K7H2S9","msg":"Changed active context"}
+{"level":30,"time":"2021-05-06T18:24:03.086Z","pid":6112,"hostname":"DESKTOP-6K7H2S9","msg":"Video path: undefined"}
+{"level":30,"time":"2021-05-06T18:24:03.088Z","pid":6112,"hostname":"DESKTOP-6K7H2S9","msg":"Changed active page"}
+{"level":30,"time":"2021-05-06T18:24:05.803Z","pid":6112,"hostname":"DESKTOP-6K7H2S9","msg":"Retrieved text for element css=span containing Nunca foi tão engraçado pedir comida"}
+{"level":30,"time":"2021-05-06T18:24:06.101Z","pid":6112,"hostname":"DESKTOP-6K7H2S9","msg":"Retrieved text for element css=h1 strong containing Ta na hora de matar a fome!"}
+{"level":30,"time":"2021-05-06T18:24:07.096Z","pid":6112,"hostname":"DESKTOP-6K7H2S9","msg":"Changed active context"}
+{"level":30,"time":"2021-05-06T18:24:07.096Z","pid":6112,"hostname":"DESKTOP-6K7H2S9","msg":"Changing current active page"}
+{"level":30,"time":"2021-05-06T18:24:07.096Z","pid":6112,"hostname":"DESKTOP-6K7H2S9","msg":"Changed active page"}
+{"level":30,"time":"2021-05-06T18:24:07.245Z","pid":6112,"hostname":"DESKTOP-6K7H2S9","msg":"Changed active context"}
+{"level":30,"time":"2021-05-06T18:24:07.245Z","pid":6112,"hostname":"DESKTOP-6K7H2S9","msg":"Changing current active page"}
+{"level":30,"time":"2021-05-06T18:24:07.245Z","pid":6112,"hostname":"DESKTOP-6K7H2S9","msg":"Changed active page"}
