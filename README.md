@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="./logo.png" width="200">
+    <img src="./logo.png" width="400">
     <h1>RoboWeek #5</h1>
 </div>
 
@@ -12,7 +12,7 @@
 
 #### Aula 00 - Configuração do ambiente
 #### Aula 01 - Conhecendo o Robot Framework
-#### Aula 02
+#### Aula 02 - EP02 - Avançando com App Actions
 #### Aula 03
 #### Aula 04
 
