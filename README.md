@@ -12,8 +12,8 @@
 
 #### Aula 00 - Configuração do ambiente
 #### Aula 01 - Conhecendo o Robot Framework
-#### Aula 02 - EP02 - Avançando com App Actions
-#### Aula 03
+#### Aula 02 - Avançando com App Actions
+#### Aula 03 - Xpath Locators e Massa de Testes JSON vs CSV
 #### Aula 04
 
 ### :hammer: Tecnologias
