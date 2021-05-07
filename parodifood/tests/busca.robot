@@ -19,5 +19,5 @@ Deve buscar por categoria
     
 Deve buscar todos os restaurantes
     Go To Restaurants
-    Search By       a
-    Restaurant Count Should Be  5
+    Search By                       a
+    Restaurant Count Should Be      5

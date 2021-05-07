@@ -18,7 +18,7 @@
 
 ### :hammer: Tecnologias
 <ul>
-    <li>Python</li>
+    <li>Python 3.8.3</li>
     <li>Robot Framework 4.0</li>
 </ul>
 
