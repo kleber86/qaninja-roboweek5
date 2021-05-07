@@ -1,64 +1,313 @@
-{"level":30,"time":"2021-05-07T12:26:01.348Z","pid":4664,"hostname":"DESKTOP-6K7H2S9","msg":"Listening on 61116"}
-{"level":30,"time":"2021-05-07T12:26:02.287Z","pid":4664,"hostname":"DESKTOP-6K7H2S9","msg":"Changed active context"}
-{"level":30,"time":"2021-05-07T12:26:02.564Z","pid":4664,"hostname":"DESKTOP-6K7H2S9","msg":"Video path: undefined"}
-{"level":30,"time":"2021-05-07T12:26:02.564Z","pid":4664,"hostname":"DESKTOP-6K7H2S9","msg":"Changed active page"}
-{"level":30,"time":"2021-05-07T12:26:09.598Z","pid":4664,"hostname":"DESKTOP-6K7H2S9","msg":"Retrieved text for element css=span containing Nunca foi tão engraçado pedir comida"}
-{"level":30,"time":"2021-05-07T12:26:09.928Z","pid":4664,"hostname":"DESKTOP-6K7H2S9","msg":"Retrieved text for element css=h1 strong containing Ta na hora de matar a fome!"}
-{"level":30,"time":"2021-05-07T12:26:11.151Z","pid":4664,"hostname":"DESKTOP-6K7H2S9","msg":"Retrieved text for element css=.place-info-box containing DEBUGER KING\n 3.5\nHamburgers\n100m"}
-{"level":30,"time":"2021-05-07T12:26:11.365Z","pid":4664,"hostname":"DESKTOP-6K7H2S9","msg":"Changed active context"}
-{"level":30,"time":"2021-05-07T12:26:11.366Z","pid":4664,"hostname":"DESKTOP-6K7H2S9","msg":"Changing current active page"}
-{"level":30,"time":"2021-05-07T12:26:11.366Z","pid":4664,"hostname":"DESKTOP-6K7H2S9","msg":"Changed active page"}
-{"level":30,"time":"2021-05-07T12:26:11.390Z","pid":4664,"hostname":"DESKTOP-6K7H2S9","msg":"Changed active context"}
-{"level":30,"time":"2021-05-07T12:26:11.390Z","pid":4664,"hostname":"DESKTOP-6K7H2S9","msg":"Changing current active page"}
-{"level":30,"time":"2021-05-07T12:26:11.390Z","pid":4664,"hostname":"DESKTOP-6K7H2S9","msg":"Changed active page"}
-{"level":30,"time":"2021-05-07T12:26:12.129Z","pid":4664,"hostname":"DESKTOP-6K7H2S9","msg":"Changed active context"}
-{"level":30,"time":"2021-05-07T12:26:12.530Z","pid":4664,"hostname":"DESKTOP-6K7H2S9","msg":"Video path: undefined"}
-{"level":30,"time":"2021-05-07T12:26:12.531Z","pid":4664,"hostname":"DESKTOP-6K7H2S9","msg":"Changed active page"}
-{"level":30,"time":"2021-05-07T12:26:18.197Z","pid":4664,"hostname":"DESKTOP-6K7H2S9","msg":"Retrieved text for element css=span containing Nunca foi tão engraçado pedir comida"}
-{"level":30,"time":"2021-05-07T12:26:18.429Z","pid":4664,"hostname":"DESKTOP-6K7H2S9","msg":"Retrieved text for element css=h1 strong containing Ta na hora de matar a fome!"}
-{"level":30,"time":"2021-05-07T12:26:19.671Z","pid":4664,"hostname":"DESKTOP-6K7H2S9","msg":"Retrieved text for element css=.place-info-box containing STARBUGS COFFEE\n 4.8\nCafeteria\n30-40m"}
-{"level":30,"time":"2021-05-07T12:26:19.848Z","pid":4664,"hostname":"DESKTOP-6K7H2S9","msg":"Changed active context"}
-{"level":30,"time":"2021-05-07T12:26:19.848Z","pid":4664,"hostname":"DESKTOP-6K7H2S9","msg":"Changing current active page"}
-{"level":30,"time":"2021-05-07T12:26:19.848Z","pid":4664,"hostname":"DESKTOP-6K7H2S9","msg":"Changed active page"}
-{"level":30,"time":"2021-05-07T12:26:19.870Z","pid":4664,"hostname":"DESKTOP-6K7H2S9","msg":"Changed active context"}
-{"level":30,"time":"2021-05-07T12:26:19.870Z","pid":4664,"hostname":"DESKTOP-6K7H2S9","msg":"Changing current active page"}
-{"level":30,"time":"2021-05-07T12:26:19.870Z","pid":4664,"hostname":"DESKTOP-6K7H2S9","msg":"Changed active page"}
-{"level":30,"time":"2021-05-07T12:26:20.418Z","pid":4664,"hostname":"DESKTOP-6K7H2S9","msg":"Changed active context"}
-{"level":30,"time":"2021-05-07T12:26:20.698Z","pid":4664,"hostname":"DESKTOP-6K7H2S9","msg":"Video path: undefined"}
-{"level":30,"time":"2021-05-07T12:26:20.698Z","pid":4664,"hostname":"DESKTOP-6K7H2S9","msg":"Changed active page"}
-{"level":30,"time":"2021-05-07T12:26:26.255Z","pid":4664,"hostname":"DESKTOP-6K7H2S9","msg":"Retrieved text for element css=span containing Nunca foi tão engraçado pedir comida"}
-{"level":30,"time":"2021-05-07T12:26:26.481Z","pid":4664,"hostname":"DESKTOP-6K7H2S9","msg":"Retrieved text for element css=h1 strong containing Ta na hora de matar a fome!"}
-{"level":30,"time":"2021-05-07T12:26:28.220Z","pid":4664,"hostname":"DESKTOP-6K7H2S9","msg":"Changed active context"}
-{"level":30,"time":"2021-05-07T12:26:28.220Z","pid":4664,"hostname":"DESKTOP-6K7H2S9","msg":"Changing current active page"}
-{"level":30,"time":"2021-05-07T12:26:28.220Z","pid":4664,"hostname":"DESKTOP-6K7H2S9","msg":"Changed active page"}
-{"level":30,"time":"2021-05-07T12:26:28.248Z","pid":4664,"hostname":"DESKTOP-6K7H2S9","msg":"Changed active context"}
-{"level":30,"time":"2021-05-07T12:26:28.248Z","pid":4664,"hostname":"DESKTOP-6K7H2S9","msg":"Changing current active page"}
-{"level":30,"time":"2021-05-07T12:26:28.248Z","pid":4664,"hostname":"DESKTOP-6K7H2S9","msg":"Changed active page"}
-{"level":30,"time":"2021-05-07T12:26:28.897Z","pid":4664,"hostname":"DESKTOP-6K7H2S9","msg":"Changed active context"}
-{"level":30,"time":"2021-05-07T12:26:29.278Z","pid":4664,"hostname":"DESKTOP-6K7H2S9","msg":"Video path: undefined"}
-{"level":30,"time":"2021-05-07T12:26:29.278Z","pid":4664,"hostname":"DESKTOP-6K7H2S9","msg":"Changed active page"}
-{"level":30,"time":"2021-05-07T12:26:34.794Z","pid":4664,"hostname":"DESKTOP-6K7H2S9","msg":"Retrieved text for element css=span containing Nunca foi tão engraçado pedir comida"}
-{"level":30,"time":"2021-05-07T12:26:34.998Z","pid":4664,"hostname":"DESKTOP-6K7H2S9","msg":"Retrieved text for element css=h1 strong containing Ta na hora de matar a fome!"}
-{"level":30,"time":"2021-05-07T12:26:36.120Z","pid":4664,"hostname":"DESKTOP-6K7H2S9","msg":"Retrieved text for element css=#detail containing Categoria\nQuem somos\nHorários"}
-{"level":30,"time":"2021-05-07T12:26:36.162Z","pid":4664,"hostname":"DESKTOP-6K7H2S9","msg":"Retrieved text for element css=#detail containing Categoria\nQuem somos\nHorários"}
-{"level":30,"time":"2021-05-07T12:26:36.199Z","pid":4664,"hostname":"DESKTOP-6K7H2S9","msg":"Retrieved text for element css=#detail containing Categoria\nCafeteria\nQuem somos\nNada melhor que um café pra te ajudar a resolver um bug.\nHorários\nFunciona de segunda à sábado, de 6h às 22h"}
-{"level":30,"time":"2021-05-07T12:26:36.776Z","pid":4664,"hostname":"DESKTOP-6K7H2S9","msg":"Retrieved text for element xpath=//th[contains(text(), \"Total\")]/..//td containing R$ 15,60"}
-{"level":30,"time":"2021-05-07T12:26:37.012Z","pid":4664,"hostname":"DESKTOP-6K7H2S9","msg":"Changed active context"}
-{"level":30,"time":"2021-05-07T12:26:37.012Z","pid":4664,"hostname":"DESKTOP-6K7H2S9","msg":"Changing current active page"}
-{"level":30,"time":"2021-05-07T12:26:37.013Z","pid":4664,"hostname":"DESKTOP-6K7H2S9","msg":"Changed active page"}
-{"level":30,"time":"2021-05-07T12:26:37.034Z","pid":4664,"hostname":"DESKTOP-6K7H2S9","msg":"Changed active context"}
-{"level":30,"time":"2021-05-07T12:26:37.034Z","pid":4664,"hostname":"DESKTOP-6K7H2S9","msg":"Changing current active page"}
-{"level":30,"time":"2021-05-07T12:26:37.034Z","pid":4664,"hostname":"DESKTOP-6K7H2S9","msg":"Changed active page"}
-{"level":30,"time":"2021-05-07T12:26:37.738Z","pid":4664,"hostname":"DESKTOP-6K7H2S9","msg":"Changed active context"}
-{"level":30,"time":"2021-05-07T12:26:38.063Z","pid":4664,"hostname":"DESKTOP-6K7H2S9","msg":"Video path: undefined"}
-{"level":30,"time":"2021-05-07T12:26:38.064Z","pid":4664,"hostname":"DESKTOP-6K7H2S9","msg":"Changed active page"}
-{"level":30,"time":"2021-05-07T12:26:42.981Z","pid":4664,"hostname":"DESKTOP-6K7H2S9","msg":"Retrieved text for element css=span containing Nunca foi tão engraçado pedir comida"}
-{"level":30,"time":"2021-05-07T12:26:43.246Z","pid":4664,"hostname":"DESKTOP-6K7H2S9","msg":"Retrieved text for element css=h1 strong containing Ta na hora de matar a fome!"}
-{"level":30,"time":"2021-05-07T12:26:44.556Z","pid":4664,"hostname":"DESKTOP-6K7H2S9","msg":"Retrieved text for element css=#detail containing Categoria\nCafeteria\nQuem somos\nNada melhor que um café pra te ajudar a resolver um bug.\nHorários\nFunciona de segunda à sábado, de 6h às 22h"}
-{"level":30,"time":"2021-05-07T12:26:45.297Z","pid":4664,"hostname":"DESKTOP-6K7H2S9","msg":"Retrieved text for element xpath=//th[contains(text(), \"Total\")]/..//td containing R$ 38,00"}
-{"level":30,"time":"2021-05-07T12:26:45.526Z","pid":4664,"hostname":"DESKTOP-6K7H2S9","msg":"Changed active context"}
-{"level":30,"time":"2021-05-07T12:26:45.526Z","pid":4664,"hostname":"DESKTOP-6K7H2S9","msg":"Changing current active page"}
-{"level":30,"time":"2021-05-07T12:26:45.526Z","pid":4664,"hostname":"DESKTOP-6K7H2S9","msg":"Changed active page"}
-{"level":30,"time":"2021-05-07T12:26:45.548Z","pid":4664,"hostname":"DESKTOP-6K7H2S9","msg":"Changed active context"}
-{"level":30,"time":"2021-05-07T12:26:45.548Z","pid":4664,"hostname":"DESKTOP-6K7H2S9","msg":"Changing current active page"}
-{"level":30,"time":"2021-05-07T12:26:45.548Z","pid":4664,"hostname":"DESKTOP-6K7H2S9","msg":"Changed active page"}
+{"level":30,"time":"2021-05-07T16:33:07.610Z","pid":5596,"hostname":"DESKTOP-6K7H2S9","msg":"Listening on 63377"}
+================= Original suppressed error =================
+Error: No page open.
+    at PlaywrightServer.getActivePage (c:\python38\lib\site-packages\Browser\wrapper\index.js:67473:23)
+    at PlaywrightServer.<anonymous> (c:\python38\lib\site-packages\Browser\wrapper\index.js:67531:69)
+    at step (c:\python38\lib\site-packages\Browser\wrapper\index.js:67439:23)
+    at Object.next (c:\python38\lib\site-packages\Browser\wrapper\index.js:67420:53)
+    at c:\python38\lib\site-packages\Browser\wrapper\index.js:67414:71
+    at new Promise (<anonymous>)
+    at __webpack_modules__../node/playwright-wrapper/grpc-service.ts.__awaiter (c:\python38\lib\site-packages\Browser\wrapper\index.js:67410:12)
+    at PlaywrightServer.setViewportSize (c:\python38\lib\site-packages\Browser\wrapper\index.js:67522:55)
+    at handleUnary (c:\python38\lib\site-packages\Browser\wrapper\index.js:17129:13)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+=============================================================
+================= Original suppressed error =================
+Error: Tried to take screenshot, but no page was open.
+    at Object.exists (c:\python38\lib\site-packages\Browser\wrapper\index.js:69134:15)
+    at c:\python38\lib\site-packages\Browser\wrapper\index.js:66387:41
+    at step (c:\python38\lib\site-packages\Browser\wrapper\index.js:66334:23)
+    at Object.next (c:\python38\lib\site-packages\Browser\wrapper\index.js:66315:53)
+    at c:\python38\lib\site-packages\Browser\wrapper\index.js:66309:71
+    at new Promise (<anonymous>)
+    at __webpack_modules__../node/playwright-wrapper/browser-control.ts.__awaiter (c:\python38\lib\site-packages\Browser\wrapper\index.js:66305:12)
+    at takeScreenshot (c:\python38\lib\site-packages\Browser\wrapper\index.js:66361:12)
+    at PlaywrightServer.<anonymous> (c:\python38\lib\site-packages\Browser\wrapper\index.js:67486:50)
+    at step (c:\python38\lib\site-packages\Browser\wrapper\index.js:67439:23)
+=============================================================
+================= Original suppressed error =================
+Error: Tried to take screenshot, but no page was open.
+    at Object.exists (c:\python38\lib\site-packages\Browser\wrapper\index.js:69134:15)
+    at c:\python38\lib\site-packages\Browser\wrapper\index.js:66387:41
+    at step (c:\python38\lib\site-packages\Browser\wrapper\index.js:66334:23)
+    at Object.next (c:\python38\lib\site-packages\Browser\wrapper\index.js:66315:53)
+    at c:\python38\lib\site-packages\Browser\wrapper\index.js:66309:71
+    at new Promise (<anonymous>)
+    at __webpack_modules__../node/playwright-wrapper/browser-control.ts.__awaiter (c:\python38\lib\site-packages\Browser\wrapper\index.js:66305:12)
+    at takeScreenshot (c:\python38\lib\site-packages\Browser\wrapper\index.js:66361:12)
+    at PlaywrightServer.<anonymous> (c:\python38\lib\site-packages\Browser\wrapper\index.js:67486:50)
+    at step (c:\python38\lib\site-packages\Browser\wrapper\index.js:67439:23)
+=============================================================
+================= Original suppressed error =================
+Error: Tried to take screenshot, but no page was open.
+    at Object.exists (c:\python38\lib\site-packages\Browser\wrapper\index.js:69134:15)
+    at c:\python38\lib\site-packages\Browser\wrapper\index.js:66387:41
+    at step (c:\python38\lib\site-packages\Browser\wrapper\index.js:66334:23)
+    at Object.next (c:\python38\lib\site-packages\Browser\wrapper\index.js:66315:53)
+    at c:\python38\lib\site-packages\Browser\wrapper\index.js:66309:71
+    at new Promise (<anonymous>)
+    at __webpack_modules__../node/playwright-wrapper/browser-control.ts.__awaiter (c:\python38\lib\site-packages\Browser\wrapper\index.js:66305:12)
+    at takeScreenshot (c:\python38\lib\site-packages\Browser\wrapper\index.js:66361:12)
+    at PlaywrightServer.<anonymous> (c:\python38\lib\site-packages\Browser\wrapper\index.js:67486:50)
+    at step (c:\python38\lib\site-packages\Browser\wrapper\index.js:67439:23)
+=============================================================
+================= Original suppressed error =================
+Error: No page open.
+    at PlaywrightServer.getActivePage (c:\python38\lib\site-packages\Browser\wrapper\index.js:67473:23)
+    at PlaywrightServer.<anonymous> (c:\python38\lib\site-packages\Browser\wrapper\index.js:67531:69)
+    at step (c:\python38\lib\site-packages\Browser\wrapper\index.js:67439:23)
+    at Object.next (c:\python38\lib\site-packages\Browser\wrapper\index.js:67420:53)
+    at c:\python38\lib\site-packages\Browser\wrapper\index.js:67414:71
+    at new Promise (<anonymous>)
+    at __webpack_modules__../node/playwright-wrapper/grpc-service.ts.__awaiter (c:\python38\lib\site-packages\Browser\wrapper\index.js:67410:12)
+    at PlaywrightServer.setViewportSize (c:\python38\lib\site-packages\Browser\wrapper\index.js:67522:55)
+    at handleUnary (c:\python38\lib\site-packages\Browser\wrapper\index.js:17129:13)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+=============================================================
+================= Original suppressed error =================
+Error: Tried to take screenshot, but no page was open.
+    at Object.exists (c:\python38\lib\site-packages\Browser\wrapper\index.js:69134:15)
+    at c:\python38\lib\site-packages\Browser\wrapper\index.js:66387:41
+    at step (c:\python38\lib\site-packages\Browser\wrapper\index.js:66334:23)
+    at Object.next (c:\python38\lib\site-packages\Browser\wrapper\index.js:66315:53)
+    at c:\python38\lib\site-packages\Browser\wrapper\index.js:66309:71
+    at new Promise (<anonymous>)
+    at __webpack_modules__../node/playwright-wrapper/browser-control.ts.__awaiter (c:\python38\lib\site-packages\Browser\wrapper\index.js:66305:12)
+    at takeScreenshot (c:\python38\lib\site-packages\Browser\wrapper\index.js:66361:12)
+    at PlaywrightServer.<anonymous> (c:\python38\lib\site-packages\Browser\wrapper\index.js:67486:50)
+    at step (c:\python38\lib\site-packages\Browser\wrapper\index.js:67439:23)
+=============================================================
+================= Original suppressed error =================
+Error: Tried to take screenshot, but no page was open.
+    at Object.exists (c:\python38\lib\site-packages\Browser\wrapper\index.js:69134:15)
+    at c:\python38\lib\site-packages\Browser\wrapper\index.js:66387:41
+    at step (c:\python38\lib\site-packages\Browser\wrapper\index.js:66334:23)
+    at Object.next (c:\python38\lib\site-packages\Browser\wrapper\index.js:66315:53)
+    at c:\python38\lib\site-packages\Browser\wrapper\index.js:66309:71
+    at new Promise (<anonymous>)
+    at __webpack_modules__../node/playwright-wrapper/browser-control.ts.__awaiter (c:\python38\lib\site-packages\Browser\wrapper\index.js:66305:12)
+    at takeScreenshot (c:\python38\lib\site-packages\Browser\wrapper\index.js:66361:12)
+    at PlaywrightServer.<anonymous> (c:\python38\lib\site-packages\Browser\wrapper\index.js:67486:50)
+    at step (c:\python38\lib\site-packages\Browser\wrapper\index.js:67439:23)
+=============================================================
+================= Original suppressed error =================
+Error: Tried to take screenshot, but no page was open.
+    at Object.exists (c:\python38\lib\site-packages\Browser\wrapper\index.js:69134:15)
+    at c:\python38\lib\site-packages\Browser\wrapper\index.js:66387:41
+    at step (c:\python38\lib\site-packages\Browser\wrapper\index.js:66334:23)
+    at Object.next (c:\python38\lib\site-packages\Browser\wrapper\index.js:66315:53)
+    at c:\python38\lib\site-packages\Browser\wrapper\index.js:66309:71
+    at new Promise (<anonymous>)
+    at __webpack_modules__../node/playwright-wrapper/browser-control.ts.__awaiter (c:\python38\lib\site-packages\Browser\wrapper\index.js:66305:12)
+    at takeScreenshot (c:\python38\lib\site-packages\Browser\wrapper\index.js:66361:12)
+    at PlaywrightServer.<anonymous> (c:\python38\lib\site-packages\Browser\wrapper\index.js:67486:50)
+    at step (c:\python38\lib\site-packages\Browser\wrapper\index.js:67439:23)
+=============================================================
+================= Original suppressed error =================
+Error: No page open.
+    at PlaywrightServer.getActivePage (c:\python38\lib\site-packages\Browser\wrapper\index.js:67473:23)
+    at PlaywrightServer.<anonymous> (c:\python38\lib\site-packages\Browser\wrapper\index.js:67531:69)
+    at step (c:\python38\lib\site-packages\Browser\wrapper\index.js:67439:23)
+    at Object.next (c:\python38\lib\site-packages\Browser\wrapper\index.js:67420:53)
+    at c:\python38\lib\site-packages\Browser\wrapper\index.js:67414:71
+    at new Promise (<anonymous>)
+    at __webpack_modules__../node/playwright-wrapper/grpc-service.ts.__awaiter (c:\python38\lib\site-packages\Browser\wrapper\index.js:67410:12)
+    at PlaywrightServer.setViewportSize (c:\python38\lib\site-packages\Browser\wrapper\index.js:67522:55)
+    at handleUnary (c:\python38\lib\site-packages\Browser\wrapper\index.js:17129:13)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+=============================================================
+================= Original suppressed error =================
+Error: Tried to take screenshot, but no page was open.
+    at Object.exists (c:\python38\lib\site-packages\Browser\wrapper\index.js:69134:15)
+    at c:\python38\lib\site-packages\Browser\wrapper\index.js:66387:41
+    at step (c:\python38\lib\site-packages\Browser\wrapper\index.js:66334:23)
+    at Object.next (c:\python38\lib\site-packages\Browser\wrapper\index.js:66315:53)
+    at c:\python38\lib\site-packages\Browser\wrapper\index.js:66309:71
+    at new Promise (<anonymous>)
+    at __webpack_modules__../node/playwright-wrapper/browser-control.ts.__awaiter (c:\python38\lib\site-packages\Browser\wrapper\index.js:66305:12)
+    at takeScreenshot (c:\python38\lib\site-packages\Browser\wrapper\index.js:66361:12)
+    at PlaywrightServer.<anonymous> (c:\python38\lib\site-packages\Browser\wrapper\index.js:67486:50)
+    at step (c:\python38\lib\site-packages\Browser\wrapper\index.js:67439:23)
+=============================================================
+================= Original suppressed error =================
+Error: Tried to take screenshot, but no page was open.
+    at Object.exists (c:\python38\lib\site-packages\Browser\wrapper\index.js:69134:15)
+    at c:\python38\lib\site-packages\Browser\wrapper\index.js:66387:41
+    at step (c:\python38\lib\site-packages\Browser\wrapper\index.js:66334:23)
+    at Object.next (c:\python38\lib\site-packages\Browser\wrapper\index.js:66315:53)
+    at c:\python38\lib\site-packages\Browser\wrapper\index.js:66309:71
+    at new Promise (<anonymous>)
+    at __webpack_modules__../node/playwright-wrapper/browser-control.ts.__awaiter (c:\python38\lib\site-packages\Browser\wrapper\index.js:66305:12)
+    at takeScreenshot (c:\python38\lib\site-packages\Browser\wrapper\index.js:66361:12)
+    at PlaywrightServer.<anonymous> (c:\python38\lib\site-packages\Browser\wrapper\index.js:67486:50)
+    at step (c:\python38\lib\site-packages\Browser\wrapper\index.js:67439:23)
+=============================================================
+================= Original suppressed error =================
+Error: Tried to take screenshot, but no page was open.
+    at Object.exists (c:\python38\lib\site-packages\Browser\wrapper\index.js:69134:15)
+    at c:\python38\lib\site-packages\Browser\wrapper\index.js:66387:41
+    at step (c:\python38\lib\site-packages\Browser\wrapper\index.js:66334:23)
+    at Object.next (c:\python38\lib\site-packages\Browser\wrapper\index.js:66315:53)
+    at c:\python38\lib\site-packages\Browser\wrapper\index.js:66309:71
+    at new Promise (<anonymous>)
+    at __webpack_modules__../node/playwright-wrapper/browser-control.ts.__awaiter (c:\python38\lib\site-packages\Browser\wrapper\index.js:66305:12)
+    at takeScreenshot (c:\python38\lib\site-packages\Browser\wrapper\index.js:66361:12)
+    at PlaywrightServer.<anonymous> (c:\python38\lib\site-packages\Browser\wrapper\index.js:67486:50)
+    at step (c:\python38\lib\site-packages\Browser\wrapper\index.js:67439:23)
+=============================================================
+================= Original suppressed error =================
+Error: No page open.
+    at PlaywrightServer.getActivePage (c:\python38\lib\site-packages\Browser\wrapper\index.js:67473:23)
+    at PlaywrightServer.<anonymous> (c:\python38\lib\site-packages\Browser\wrapper\index.js:67531:69)
+    at step (c:\python38\lib\site-packages\Browser\wrapper\index.js:67439:23)
+    at Object.next (c:\python38\lib\site-packages\Browser\wrapper\index.js:67420:53)
+    at c:\python38\lib\site-packages\Browser\wrapper\index.js:67414:71
+    at new Promise (<anonymous>)
+    at __webpack_modules__../node/playwright-wrapper/grpc-service.ts.__awaiter (c:\python38\lib\site-packages\Browser\wrapper\index.js:67410:12)
+    at PlaywrightServer.setViewportSize (c:\python38\lib\site-packages\Browser\wrapper\index.js:67522:55)
+    at handleUnary (c:\python38\lib\site-packages\Browser\wrapper\index.js:17129:13)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+=============================================================
+================= Original suppressed error =================
+Error: Tried to take screenshot, but no page was open.
+    at Object.exists (c:\python38\lib\site-packages\Browser\wrapper\index.js:69134:15)
+    at c:\python38\lib\site-packages\Browser\wrapper\index.js:66387:41
+    at step (c:\python38\lib\site-packages\Browser\wrapper\index.js:66334:23)
+    at Object.next (c:\python38\lib\site-packages\Browser\wrapper\index.js:66315:53)
+    at c:\python38\lib\site-packages\Browser\wrapper\index.js:66309:71
+    at new Promise (<anonymous>)
+    at __webpack_modules__../node/playwright-wrapper/browser-control.ts.__awaiter (c:\python38\lib\site-packages\Browser\wrapper\index.js:66305:12)
+    at takeScreenshot (c:\python38\lib\site-packages\Browser\wrapper\index.js:66361:12)
+    at PlaywrightServer.<anonymous> (c:\python38\lib\site-packages\Browser\wrapper\index.js:67486:50)
+    at step (c:\python38\lib\site-packages\Browser\wrapper\index.js:67439:23)
+=============================================================
+================= Original suppressed error =================
+Error: Tried to take screenshot, but no page was open.
+    at Object.exists (c:\python38\lib\site-packages\Browser\wrapper\index.js:69134:15)
+    at c:\python38\lib\site-packages\Browser\wrapper\index.js:66387:41
+    at step (c:\python38\lib\site-packages\Browser\wrapper\index.js:66334:23)
+    at Object.next (c:\python38\lib\site-packages\Browser\wrapper\index.js:66315:53)
+    at c:\python38\lib\site-packages\Browser\wrapper\index.js:66309:71
+    at new Promise (<anonymous>)
+    at __webpack_modules__../node/playwright-wrapper/browser-control.ts.__awaiter (c:\python38\lib\site-packages\Browser\wrapper\index.js:66305:12)
+    at takeScreenshot (c:\python38\lib\site-packages\Browser\wrapper\index.js:66361:12)
+    at PlaywrightServer.<anonymous> (c:\python38\lib\site-packages\Browser\wrapper\index.js:67486:50)
+    at step (c:\python38\lib\site-packages\Browser\wrapper\index.js:67439:23)
+=============================================================
+================= Original suppressed error =================
+Error: Tried to take screenshot, but no page was open.
+    at Object.exists (c:\python38\lib\site-packages\Browser\wrapper\index.js:69134:15)
+    at c:\python38\lib\site-packages\Browser\wrapper\index.js:66387:41
+    at step (c:\python38\lib\site-packages\Browser\wrapper\index.js:66334:23)
+    at Object.next (c:\python38\lib\site-packages\Browser\wrapper\index.js:66315:53)
+    at c:\python38\lib\site-packages\Browser\wrapper\index.js:66309:71
+    at new Promise (<anonymous>)
+    at __webpack_modules__../node/playwright-wrapper/browser-control.ts.__awaiter (c:\python38\lib\site-packages\Browser\wrapper\index.js:66305:12)
+    at takeScreenshot (c:\python38\lib\site-packages\Browser\wrapper\index.js:66361:12)
+    at PlaywrightServer.<anonymous> (c:\python38\lib\site-packages\Browser\wrapper\index.js:67486:50)
+    at step (c:\python38\lib\site-packages\Browser\wrapper\index.js:67439:23)
+=============================================================
+================= Original suppressed error =================
+Error: No page open.
+    at PlaywrightServer.getActivePage (c:\python38\lib\site-packages\Browser\wrapper\index.js:67473:23)
+    at PlaywrightServer.<anonymous> (c:\python38\lib\site-packages\Browser\wrapper\index.js:67531:69)
+    at step (c:\python38\lib\site-packages\Browser\wrapper\index.js:67439:23)
+    at Object.next (c:\python38\lib\site-packages\Browser\wrapper\index.js:67420:53)
+    at c:\python38\lib\site-packages\Browser\wrapper\index.js:67414:71
+    at new Promise (<anonymous>)
+    at __webpack_modules__../node/playwright-wrapper/grpc-service.ts.__awaiter (c:\python38\lib\site-packages\Browser\wrapper\index.js:67410:12)
+    at PlaywrightServer.setViewportSize (c:\python38\lib\site-packages\Browser\wrapper\index.js:67522:55)
+    at handleUnary (c:\python38\lib\site-packages\Browser\wrapper\index.js:17129:13)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+=============================================================
+================= Original suppressed error =================
+Error: Tried to take screenshot, but no page was open.
+    at Object.exists (c:\python38\lib\site-packages\Browser\wrapper\index.js:69134:15)
+    at c:\python38\lib\site-packages\Browser\wrapper\index.js:66387:41
+    at step (c:\python38\lib\site-packages\Browser\wrapper\index.js:66334:23)
+    at Object.next (c:\python38\lib\site-packages\Browser\wrapper\index.js:66315:53)
+    at c:\python38\lib\site-packages\Browser\wrapper\index.js:66309:71
+    at new Promise (<anonymous>)
+    at __webpack_modules__../node/playwright-wrapper/browser-control.ts.__awaiter (c:\python38\lib\site-packages\Browser\wrapper\index.js:66305:12)
+    at takeScreenshot (c:\python38\lib\site-packages\Browser\wrapper\index.js:66361:12)
+    at PlaywrightServer.<anonymous> (c:\python38\lib\site-packages\Browser\wrapper\index.js:67486:50)
+    at step (c:\python38\lib\site-packages\Browser\wrapper\index.js:67439:23)
+=============================================================
+================= Original suppressed error =================
+Error: Tried to take screenshot, but no page was open.
+    at Object.exists (c:\python38\lib\site-packages\Browser\wrapper\index.js:69134:15)
+    at c:\python38\lib\site-packages\Browser\wrapper\index.js:66387:41
+    at step (c:\python38\lib\site-packages\Browser\wrapper\index.js:66334:23)
+    at Object.next (c:\python38\lib\site-packages\Browser\wrapper\index.js:66315:53)
+    at c:\python38\lib\site-packages\Browser\wrapper\index.js:66309:71
+    at new Promise (<anonymous>)
+    at __webpack_modules__../node/playwright-wrapper/browser-control.ts.__awaiter (c:\python38\lib\site-packages\Browser\wrapper\index.js:66305:12)
+    at takeScreenshot (c:\python38\lib\site-packages\Browser\wrapper\index.js:66361:12)
+    at PlaywrightServer.<anonymous> (c:\python38\lib\site-packages\Browser\wrapper\index.js:67486:50)
+    at step (c:\python38\lib\site-packages\Browser\wrapper\index.js:67439:23)
+=============================================================
+================= Original suppressed error =================
+Error: Tried to take screenshot, but no page was open.
+    at Object.exists (c:\python38\lib\site-packages\Browser\wrapper\index.js:69134:15)
+    at c:\python38\lib\site-packages\Browser\wrapper\index.js:66387:41
+    at step (c:\python38\lib\site-packages\Browser\wrapper\index.js:66334:23)
+    at Object.next (c:\python38\lib\site-packages\Browser\wrapper\index.js:66315:53)
+    at c:\python38\lib\site-packages\Browser\wrapper\index.js:66309:71
+    at new Promise (<anonymous>)
+    at __webpack_modules__../node/playwright-wrapper/browser-control.ts.__awaiter (c:\python38\lib\site-packages\Browser\wrapper\index.js:66305:12)
+    at takeScreenshot (c:\python38\lib\site-packages\Browser\wrapper\index.js:66361:12)
+    at PlaywrightServer.<anonymous> (c:\python38\lib\site-packages\Browser\wrapper\index.js:67486:50)
+    at step (c:\python38\lib\site-packages\Browser\wrapper\index.js:67439:23)
+=============================================================
+================= Original suppressed error =================
+Error: No page open.
+    at PlaywrightServer.getActivePage (c:\python38\lib\site-packages\Browser\wrapper\index.js:67473:23)
+    at PlaywrightServer.<anonymous> (c:\python38\lib\site-packages\Browser\wrapper\index.js:67531:69)
+    at step (c:\python38\lib\site-packages\Browser\wrapper\index.js:67439:23)
+    at Object.next (c:\python38\lib\site-packages\Browser\wrapper\index.js:67420:53)
+    at c:\python38\lib\site-packages\Browser\wrapper\index.js:67414:71
+    at new Promise (<anonymous>)
+    at __webpack_modules__../node/playwright-wrapper/grpc-service.ts.__awaiter (c:\python38\lib\site-packages\Browser\wrapper\index.js:67410:12)
+    at PlaywrightServer.setViewportSize (c:\python38\lib\site-packages\Browser\wrapper\index.js:67522:55)
+    at handleUnary (c:\python38\lib\site-packages\Browser\wrapper\index.js:17129:13)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+=============================================================
+================= Original suppressed error =================
+Error: Tried to take screenshot, but no page was open.
+    at Object.exists (c:\python38\lib\site-packages\Browser\wrapper\index.js:69134:15)
+    at c:\python38\lib\site-packages\Browser\wrapper\index.js:66387:41
+    at step (c:\python38\lib\site-packages\Browser\wrapper\index.js:66334:23)
+    at Object.next (c:\python38\lib\site-packages\Browser\wrapper\index.js:66315:53)
+    at c:\python38\lib\site-packages\Browser\wrapper\index.js:66309:71
+    at new Promise (<anonymous>)
+    at __webpack_modules__../node/playwright-wrapper/browser-control.ts.__awaiter (c:\python38\lib\site-packages\Browser\wrapper\index.js:66305:12)
+    at takeScreenshot (c:\python38\lib\site-packages\Browser\wrapper\index.js:66361:12)
+    at PlaywrightServer.<anonymous> (c:\python38\lib\site-packages\Browser\wrapper\index.js:67486:50)
+    at step (c:\python38\lib\site-packages\Browser\wrapper\index.js:67439:23)
+=============================================================
+================= Original suppressed error =================
+Error: Tried to take screenshot, but no page was open.
+    at Object.exists (c:\python38\lib\site-packages\Browser\wrapper\index.js:69134:15)
+    at c:\python38\lib\site-packages\Browser\wrapper\index.js:66387:41
+    at step (c:\python38\lib\site-packages\Browser\wrapper\index.js:66334:23)
+    at Object.next (c:\python38\lib\site-packages\Browser\wrapper\index.js:66315:53)
+    at c:\python38\lib\site-packages\Browser\wrapper\index.js:66309:71
+    at new Promise (<anonymous>)
+    at __webpack_modules__../node/playwright-wrapper/browser-control.ts.__awaiter (c:\python38\lib\site-packages\Browser\wrapper\index.js:66305:12)
+    at takeScreenshot (c:\python38\lib\site-packages\Browser\wrapper\index.js:66361:12)
+    at PlaywrightServer.<anonymous> (c:\python38\lib\site-packages\Browser\wrapper\index.js:67486:50)
+    at step (c:\python38\lib\site-packages\Browser\wrapper\index.js:67439:23)
+=============================================================
+================= Original suppressed error =================
+Error: Tried to take screenshot, but no page was open.
+    at Object.exists (c:\python38\lib\site-packages\Browser\wrapper\index.js:69134:15)
+    at c:\python38\lib\site-packages\Browser\wrapper\index.js:66387:41
+    at step (c:\python38\lib\site-packages\Browser\wrapper\index.js:66334:23)
+    at Object.next (c:\python38\lib\site-packages\Browser\wrapper\index.js:66315:53)
+    at c:\python38\lib\site-packages\Browser\wrapper\index.js:66309:71
+    at new Promise (<anonymous>)
+    at __webpack_modules__../node/playwright-wrapper/browser-control.ts.__awaiter (c:\python38\lib\site-packages\Browser\wrapper\index.js:66305:12)
+    at takeScreenshot (c:\python38\lib\site-packages\Browser\wrapper\index.js:66361:12)
+    at PlaywrightServer.<anonymous> (c:\python38\lib\site-packages\Browser\wrapper\index.js:67486:50)
+    at step (c:\python38\lib\site-packages\Browser\wrapper\index.js:67439:23)
+=============================================================
